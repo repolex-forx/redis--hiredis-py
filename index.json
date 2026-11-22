@@ -1,0 +1,11 @@
+{
+  "org": "redis",
+  "repo": "hiredis-py",
+  "versions": [
+    {
+      "commit": "3cb8f069006f7138620b065fba973ccc490bde3d",
+      "tag": "v3.3.1",
+      "parsed_at": "2026-11-22T06:35:53.264277+00:00"
+    }
+  ]
+}
